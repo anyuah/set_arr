@@ -1,0 +1,15 @@
+{
+    "name": "cyh/set_arr",
+    "autoload": {
+        "psr-4": {
+            "Cyh\\SetArr\\": "packages/aex/set_arr/src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anyuah",
+            "email": "809355897@qq.com"
+        }
+    ],
+    "require": {}
+}
